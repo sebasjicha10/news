@@ -1,4 +1,4 @@
-# [Live here](https://sebasjicha10.github.io/news/)
+# React News App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
